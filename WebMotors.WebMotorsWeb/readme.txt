@@ -1,0 +1,13 @@
+﻿* Melhorias que este projeto poderia ter:
+-------------------------------------------------------
+- Segmentar a API e o Core business de Anúncios Webmotors em projetos distintos:
+	- Projeto contetndo a API Rest;
+	- Projeto contendo o Core Business;
+	- Projeto Web Application (entregue); 
+- Implementar injeção de dependência;
+- Implementar padrão DDD, Repository ou Arquitetura mais clean;
+- Implementar CQRS;
+- Implementar a consumação da APIRest desafioonline.webmotors.com.br/swagger;
+- Carregar os combos de Marca, modelo;
+- Implementar testes unitários da API;
+- Implementar outros testes unitários que forem significativos;
